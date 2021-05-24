@@ -1,2 +1,2 @@
 # TCPDATA-over-Scapy
-Sends Data with Python Scapy to for e.g an netcat server
+Sends Data with Python Scapy to a for example an netcat server
